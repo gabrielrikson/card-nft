@@ -18,7 +18,7 @@ body{
 section.container{
     display: flex;
     flex-direction: column;
-    margin-top: 50px;
+    margin-top: 130px;
     width: 100%;
     max-width: 370px;
     background-color: hsl(216, 50%, 16%);
