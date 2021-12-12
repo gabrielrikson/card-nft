@@ -72,8 +72,8 @@ section.container h3:hover{
 section.container > p{
     width: 85%;
     font-size: 16px;
-    color: #ccc;
-    font-weight: 200;
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
 }
 
 .action{
